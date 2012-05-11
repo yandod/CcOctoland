@@ -1,0 +1,14 @@
+msgid "Octoland"
+msgstr "開発オクランド"
+
+msgid "Go to Octoland"
+msgstr "開発オクランドへアクセス"
+
+msgid "Get Octocat"
+msgstr "オクトガチャる"
+
+msgid "Amount uou spent:"
+msgstr "あなたが使った合計金額:"
+
+msgid "You got "
+msgstr "あなたがゲットしたカード："
